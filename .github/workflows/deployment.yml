@@ -1,4 +1,4 @@
-name: Testando Projeto
+name: Deployment the project
 on: [push, workflow_dispatch]
 jobs:
   testes:
