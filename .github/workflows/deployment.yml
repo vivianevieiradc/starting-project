@@ -1,4 +1,4 @@
-name: Deployment the project
+name: Deployment do projeto
 on: [push, workflow_dispatch]
 jobs:
   testes:
